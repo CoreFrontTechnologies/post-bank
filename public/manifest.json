@@ -1,0 +1,21 @@
+{
+  "name": "Freelancer Post Bank v2",
+  "short_name": "PostBank",
+  "description": "The ultimate social media vault for Digital CEOs.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/postbank/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/postbank/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

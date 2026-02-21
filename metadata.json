@@ -1,0 +1,8 @@
+{
+  "name": "Freelancer Post Bank",
+  "description": "A high-performance content engine for digital CEOs. Generate, manage, and share viral freelancing secrets and AI-driven strategies with automated thumbnail creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
